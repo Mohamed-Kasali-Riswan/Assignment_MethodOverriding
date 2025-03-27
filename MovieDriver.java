@@ -1,5 +1,8 @@
 package methodOverriding;
 
+// 3. Create hierarchy from Movie class with Child classes of different genre movies like RomComMovie, ThrillerMovie, etc.
+//    Demonstrate polymorphism using them.
+
 public class MovieDriver {
 
 	public static void main(String[] args) {
