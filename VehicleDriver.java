@@ -1,5 +1,7 @@
 package methodOverriding;
 
+// 2. In Vehicle hierarchy, add methods like start and stop in Vehicle and override them in Child classes. 
+
 public class VehicleDriver {
 	public static void main(String[] args) {
 		Vehicle vehicle=new Vehicle();
